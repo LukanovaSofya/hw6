@@ -141,11 +141,12 @@
 #### Ненавидеть — hate
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Ненавидеть")
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Hate")
-Ненависть у персонажей Толстого встречается реже, чем любовь, и прослеживается сгущенно к концу романа. 
+"Ненависть" у персонажей Толстого встречается реже, чем любовь, и прослеживается сгущенно к концу романа. У Мураками она встречается в романе ритмично и также, как у Толстого, редко, что можно обосновать, помимо всего прочего, особенностями японского мировоззрения. 
 
 #### Боль — pain
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Боль")
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Pain")
+Как и "ненависть", "боль" в романе "Анна Каренина" встречается больше к развязке романа ближе к концу. Приблизительно то же мы можем наблюдать и в "A Wild Sheep Chase". 
 
 ### Задание 5
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C.%20n-grams.png?raw=true "Пункт 2. Задание 5. Выбрать") 
