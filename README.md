@@ -62,12 +62,12 @@
 Прежде всего, стоит указать, что данное задание даёт широкую интерпретацию поставленной цели. Наша понимание таково: мы сравнили три слова (love — любовь, hate — ненавидеть, pain — боль) в контексте двух романов, сознательно отказываясь от разных форм слов, чтобы ограничить поиск. 
 
 #### Любовь — love
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%201.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%202.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%203.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%204.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%205.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%201.png?raw=true "Пункт 2. Задание 3. Любовь")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%202.png?raw=true "Пункт 2. Задание 3. Любовь")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%203.png?raw=true "Пункт 2. Задание 3. Любовь")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%204.png?raw=true "Пункт 2. Задание 3. Любовь")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%205.png?raw=true "Пункт 2. Задание 3. Любовь")
+
 Проанализировав представленные выше результаты, мы приходим к выводу, что существительное "любовь" употребляется в романе "Анна Каренина" в следующих значениях:
 - любовь, как духовное и физическое влечение;
 - любовь, как привязанность;
@@ -75,21 +75,35 @@
 - любовь к людям (уважение, принятие, доброта и пр.);
 - любовь, как духовная опора;
 - любовь, как одно из сильнейших чувств, испытываемых человеком;
-- любовь, как качество, возвышающееся над границами общества;
+- любовь, как сильное чувство, возвышающееся над границами общества;
 - любовь, как черта, граничащая с ненавистью;
 - любовь, как божественная гармония;
 - "платоническая любовь", не связанная с чувственными желаниями;
 - любовь, как забота о близких. 
 
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.png?raw=true "Пункт 2. Задание 3. Love")
+
 В романе "A Wild Sheep Chase" понятие "love" представлено в следующих смыслах: 
-- 
+- любовь, как состязание, где взаимность от объекта любви является призом;
+- любовь к родителям;
+- любовь к животным;
+- любить в значении "нравиться" — разделять чьи-то вкусы, образ мыслей;
+- любовь к какой-то вещи, определенному действию 
+- любовь к какому-то делу, профессии, ремеслу;
+- любовь в значении полового акта; 
+- "love to see", как хотеть увидеть
+- любовь к какому-то месту; 
+- любовь, как духовное и физическое влечение. 
+
 #### Ненавидеть — hate 
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.png?raw=true "Пункт 2. Задание 3. Ненавидеть")
 В романе "Анна Каренина" "ненавидеть" раскрывается в следующих смыслах: 
 - питать злобу и вражду к кому-либо;
 - испытывать нелюбовь к кому-либо;
 - презирать кого-либо. 
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.png?raw=true)
+
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.png?raw=true "Пункт 2. Задание 3. Hate")
+
 #### Боль — pain
 Роман "Анна Каренина" 
 - боль, как "ощущение физического страдания в какой-нибудь части тела" ([Толковый словарь Ушакова, 1935-1940](https://dic.academic.ru/dic.nsf/ushakov/749470));
