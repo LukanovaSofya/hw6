@@ -82,6 +82,7 @@
 - любовь, как черта, граничащая с ненавистью;
 - любовь, как божественная гармония;
 - "платоническая любовь", не связанная с чувственными желаниями;
+- любовь к церки и Богу;
 - любовь, как забота о близких. 
 
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.png?raw=true "Пункт 2. Задание 3. Love")
@@ -94,7 +95,7 @@
 - любовь к какой-то вещи, определенному действию; 
 - любовь к какому-то делу, профессии, ремеслу;
 - любовь в значении полового акта; 
-- "love to see", как хотеть увидеть
+- "love to see", как хотеть увидеть;
 - любовь к какому-то месту; 
 - любовь, как духовное и физическое влечение. 
 
@@ -131,6 +132,7 @@
 ### Задание 4
 #### Любовь — love
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Любовь")
+
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Love")
 #### Ненавидеть — hate
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Ненавидеть")
