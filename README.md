@@ -51,7 +51,7 @@
 5. age
 
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%97.%202.2.png?raw=true "Пункт 2. Задание 2")
-В тексте Мураками "A Wild Sheep Chase" мы получаем следующую пятерку нераспространенных слов. 
+В тексте Мураками "A Wild Sheep Chase" мы получаем следующую пятерку нераспространенных слов: 
 1. abandon
 2. abating
 3. abducted
