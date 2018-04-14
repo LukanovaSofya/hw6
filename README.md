@@ -59,7 +59,32 @@
 5. aboutourwaysheredoyou 
 
 ### Задание 3
+Прежде всего, стоит указать, что данное задание даёт широкую интерпретацию поставленной цели. Наша понимание таково: мы сравнили три слова (love - любовь, hate - ненавидеть, pain - боль) в контексте двух романов, сознательно отказываясь от разных форм слов, чтобы ограничить поиск. 
+
+#### Любовь - love
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%201.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%202.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%203.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%204.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%205.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.png?raw=true)
+#### Ненавидеть - hate 
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.png?raw=true)
+#### Боль - pain
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.png?raw=true)
 
 ### Задание 4
+#### Любовь - love
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.%20Concordance%20Plot.png?raw=true)
+#### Ненавидеть - hate
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.%20Concordance%20Plot.png?raw=true)
+#### Боль - pain
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.%20Concordance%20Plot.png?raw=true)
 ### Задание 5
-### Задание 6
+
+### Задание 6. Вывод
