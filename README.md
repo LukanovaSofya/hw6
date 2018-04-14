@@ -139,8 +139,8 @@
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Боль")
 ![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Pain")
 ### Задание 5
-
-
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C.%20n-grams.png?raw=true "Пункт 2. Задание 5. Выбрать")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/go.%20n-grams.png?raw=true "Пункт 2. Задание 5. Go")
 ### Задание 6. Вывод
 Рассмотрев некоторые аспекты выбранных романов, мы можем сделать несколько выводов по отношению к стилям Л.Н. Толстого и Харуки Мураками. 
 
