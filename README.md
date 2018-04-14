@@ -111,25 +111,25 @@
 - непринятие человеком себя. 
 
 #### Боль — pain
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.png?raw=true "Пункт 2. Задание 3. Боль")
 Роман "Анна Каренина" 
 - боль, как "ощущение физического страдания в какой-нибудь части тела" ([Толковый словарь Ушакова, 1935-1940](https://dic.academic.ru/dic.nsf/ushakov/749470));
 - боль в переносном значении, как "чувство скорби, страдания" ([Толковый словарь Ушакова, 1935-1940](https://dic.academic.ru/dic.nsf/ushakov/749470));
 - надворный советник Петр Петровичь Боль; 
 - графиня Боль.
 
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.png?raw=true "Пункт 2. Задание 3. Pain")
 
 ### Задание 4
 #### Любовь — love
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.%20Concordance%20Plot.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Любовь")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/love.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Love")
 #### Ненавидеть — hate
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.%20Concordance%20Plot.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%9D%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Ненавидеть")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/hate.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Hate")
 #### Боль — pain
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.%20Concordance%20Plot.png?raw=true)
-![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.%20Concordance%20Plot.png?raw=true)
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/%D0%91%D0%BE%D0%BB%D1%8C.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Боль")
+![txt](https://github.com/LukanovaSofya/hw6/blob/master/pain.%20Concordance%20Plot.png?raw=true "Пункт 2. Задание 4. Pain")
 ### Задание 5
 
 ### Задание 6. Вывод
